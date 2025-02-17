@@ -1,0 +1,11 @@
+../Drivers/FSP/fsp.c:16:6:fsp_init	16	static
+../Drivers/FSP/fsp.c:22:6:fsp_gen_data_pkt	24	static
+../Drivers/FSP/fsp.c:34:6:fsp_gen_cmd_pkt	24	static
+../Drivers/FSP/fsp.c:46:6:fsp_gen_cmd_w_data_pkt	24	static
+../Drivers/FSP/fsp.c:59:6:fsp_gen_ack_pkt	24	static
+../Drivers/FSP/fsp.c:64:6:fsp_gen_nack_pkt	24	static
+../Drivers/FSP/fsp.c:70:6:fsp_gen_pkt	32	static
+../Drivers/FSP/fsp.c:98:6:frame_encode	296	static
+../Drivers/FSP/fsp.c:163:6:fsp_encode	32	static
+../Drivers/FSP/fsp.c:218:9:fsp_decode	16	static
+../Drivers/FSP/fsp.c:306:5:frame_decode	288	static

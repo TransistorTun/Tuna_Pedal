@@ -1,0 +1,6 @@
+../Drivers/Communicate/Communicate.c:31:6:Communicate_Task	8	static
+../Drivers/Communicate/Communicate.c:118:6:Get_All_Send	8	static
+../Drivers/Communicate/Communicate.c:123:6:Get_All_Received	4	static
+../Drivers/Communicate/Communicate.c:151:13:Set_Pulse_Run	8	static
+../Drivers/Communicate/Communicate.c:156:13:Set_Cap_Control	8	static
+../Drivers/Communicate/Communicate.c:162:13:Send_Sequence	24	static

@@ -1,0 +1,2 @@
+../Drivers/FSP/fsp_line_task.c:40:6:FSP_Line_Task_Init	8	static
+../Drivers/FSP/fsp_line_task.c:53:6:FSP_Line_Task	24	static

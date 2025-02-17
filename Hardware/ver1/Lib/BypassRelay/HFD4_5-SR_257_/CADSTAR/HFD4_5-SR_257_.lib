@@ -1,0 +1,16 @@
+.HFD4_5-SR_257_ :1 ;HFD4 Subminiature Signal Relay 3 VDC 140 MW
+HFD45SR257
+*STM K
+*NGS
+*PLB 1="+" 2="NC_1" 3="COM_1" 4="NO_1" 5="NO_2" 6="COM_2" 7="NC_2" 8="-"
+*MXP 8
+*DFN HFD4_5-SR_257_
+~!Future Part Number (-)
+~!Future Price/Stock (-)
+~!Manufacturer_Name (Hongfa)
+~!Manufacturer_Part_Number (HFD4/5-SR(257))
+~!Link Datasheet (https://www.mouser.de/datasheet/2/418/6/ENG_DS_1_1773969_4_2002-1956266.pdf)
+~!Height (5.65mm)
+~!3D_Model (HFD4_5-SR_257_)
+HFD4_5-SR_257_
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 

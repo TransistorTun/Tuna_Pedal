@@ -1,0 +1,10 @@
+Leaf:	4000 pixel height
+PIF:	3400 pixel height
+Lab/Store:	1700 pixel height
+
+Green of text:
+R	1
+G	111
+B	16
+
+Font: Eras Medium ITC

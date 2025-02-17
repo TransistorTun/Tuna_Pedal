@@ -1,0 +1,7 @@
+C:/UserData/Onedrive/Project_D/My Project/DATN/Pedal/Firmware/Ref/HDMI_F4/Drivers/lvgl/src/hal/../draw/../misc/lv_color.h:599:26:lv_color_hex	24	static
+C:/UserData/Onedrive/Project_D/My Project/DATN/Pedal/Firmware/Ref/HDMI_F4/Drivers/lvgl/src/core/lv_obj_style.h:92:20:lv_obj_remove_style_all	16	static
+C:/UserData/Onedrive/Project_D/My Project/DATN/Pedal/Firmware/Ref/HDMI_F4/Drivers/lvgl/src/widgets/lv_slider.h:84:20:lv_slider_set_value	24	static
+C:/UserData/Onedrive/Project_D/My Project/DATN/Pedal/Firmware/Ref/HDMI_F4/Drivers/lvgl/src/widgets/lv_slider.h:95:20:lv_slider_set_left_value	24	static
+C:/UserData/Onedrive/Project_D/My Project/DATN/Pedal/Firmware/Ref/HDMI_F4/Drivers/lvgl/src/widgets/lv_slider.h:106:20:lv_slider_set_range	24	static
+C:/UserData/Onedrive/Project_D/My Project/DATN/Pedal/Firmware/Ref/HDMI_F4/Drivers/lvgl/src/widgets/lv_slider.h:177:32:lv_slider_get_mode	24	static
+../Drivers/UI/screens/ui_Setting.c:8:6:ui_Setting_screen_init	16	static

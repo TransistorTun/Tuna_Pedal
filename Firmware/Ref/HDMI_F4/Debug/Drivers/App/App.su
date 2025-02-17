@@ -1,0 +1,44 @@
+C:/UserData/Onedrive/Project_D/My Project/DATN/Pedal/Firmware/Ref/HDMI_F4/Drivers/lvgl/src/hal/../draw/../misc/lv_color.h:594:26:lv_color_make	16	static
+C:/UserData/Onedrive/Project_D/My Project/DATN/Pedal/Firmware/Ref/HDMI_F4/Drivers/lvgl/src/hal/../draw/../misc/lv_color.h:599:26:lv_color_hex	24	static
+C:/UserData/Onedrive/Project_D/My Project/DATN/Pedal/Firmware/Ref/HDMI_F4/Drivers/lvgl/src/hal/../draw/../misc/lv_color.h:695:26:lv_color_white	8	static
+C:/UserData/Onedrive/Project_D/My Project/DATN/Pedal/Firmware/Ref/HDMI_F4/Drivers/lvgl/src/hal/../draw/../misc/lv_color.h:699:26:lv_color_black	8	static
+C:/UserData/Onedrive/Project_D/My Project/DATN/Pedal/Firmware/Ref/HDMI_F4/Drivers/lvgl/src/hal/../draw/sw/../../core/lv_obj_pos.h:199:20:lv_obj_center	16	static
+C:/UserData/Onedrive/Project_D/My Project/DATN/Pedal/Firmware/Ref/HDMI_F4/Drivers/lvgl/src/core/lv_obj_style.h:92:20:lv_obj_remove_style_all	16	static
+C:/UserData/Onedrive/Project_D/My Project/DATN/Pedal/Firmware/Ref/HDMI_F4/Drivers/lvgl/src/core/lv_disp.h:182:26:lv_scr_act	8	static
+../Drivers/App/App.c:48:13:Sequence_Delete	48	static
+../Drivers/App/App.c:66:13:Sequence_Save	16	static
+../Drivers/App/App.c:69:6:Draw_Chart	48	static
+../Drivers/App/App.c:87:6:Chart_Init	16	static
+../Drivers/App/App.c:118:13:message_changed	24	static
+../Drivers/App/App.c:129:6:Poweroff	32	static
+../Drivers/App/App.c:137:6:Numpad_Init	24	static
+../Drivers/App/App.c:180:6:Edit_HV	24	static
+../Drivers/App/App.c:189:6:Edit_HOnT	24	static
+../Drivers/App/App.c:198:6:Edit_HOfT	24	static
+../Drivers/App/App.c:207:6:Edit_HPC	24	static
+../Drivers/App/App.c:216:6:Edit_HNC	24	static
+../Drivers/App/App.c:225:6:Edit_LV	24	static
+../Drivers/App/App.c:234:6:Edit_LOnT	24	static
+../Drivers/App/App.c:243:6:Edit_LOfT	24	static
+../Drivers/App/App.c:252:6:Edit_LPC	24	static
+../Drivers/App/App.c:261:6:Edit_LNC	24	static
+../Drivers/App/App.c:271:6:Edit_DHV	24	static
+../Drivers/App/App.c:282:6:Edit_DLV	24	static
+../Drivers/App/App.c:293:6:Edit_DHL	24	static
+../Drivers/App/App.c:304:6:Run_SW_PRESS	16	static
+../Drivers/App/App.c:312:6:PAUSE_SW_PRESS	16	static
+../Drivers/App/App.c:318:6:Edit_Sequence	24	static
+../Drivers/App/App.c:363:13:update_sequence_screen	24	static
+../Drivers/App/App.c:391:6:Edit_PositivePole	24	static
+../Drivers/App/App.c:406:6:Edit_NegativePole	24	static
+../Drivers/App/App.c:421:13:keyneba	32	static
+../Drivers/App/App.c:445:10:Draw_Rect	56	static
+../Drivers/App/App.c:542:13:check_and_call_pulse_status	88	static
+../Drivers/App/App.c:570:6:close_message_event_cb	24	static
+../Drivers/App/App.c:583:6:message_timer_cb	24	static
+../Drivers/App/App.c:596:6:show_message	24	static
+../Drivers/App/App.c:629:9:check_sequence_validity	16	static
+../Drivers/App/App.c:659:13:calculate_totals_and_update	16	static
+../Drivers/App/App.c:675:6:ValidateSequence	16	static
+../Drivers/App/App.c:718:6:simulate_dropdown_change	16	static
+../Drivers/App/App.c:726:6:create_sequence_buttons	32	static

@@ -1,0 +1,142 @@
+(footprint "Candy_Cap_hole_100nF_275V"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 7.62 -8.7122 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "2e12546e-2560-4130-ac71-5d7f603f48f4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Candy_Cap_hole_100nF_275V"
+		(at 8.6614 1.524 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "1a700d51-c519-4fcb-8311-eaf7c4cc019c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 6.7938 -9.4962 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2dfa8254-cb5d-4680-bf92-97967f905a7e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 6.7938 -9.4962 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ed3239f9-facd-472d-829f-43a102f9c54c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 6.7938 -9.4962 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "27ca9774-d81b-4415-98c7-83d18bd99c09")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_rect
+		(start -0.0262 -9.9962)
+		(end 17.9736 0.0038)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "d818289a-a2e7-4d0d-8e51-11171143356c")
+	)
+	(fp_rect
+		(start 0.0538 -9.9162)
+		(end 17.907 -0.0762)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "752b7bd3-8aab-485e-a6a0-f7ec98effd4f")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 9.0424 -6.985 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "e84b9a8e-9d1c-4b56-9389-caefd15c681e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 1.4738 -4.9962)
+		(size 2 2)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f21e44bf-0bf7-44e9-83a9-b343b4d117c3")
+	)
+	(pad "2" thru_hole circle
+		(at 16.4736 -4.9962)
+		(size 2 2)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "0dd10281-ac4f-4ac1-9e9b-6ddc18fcb7ca")
+	)
+	(model "C:/Users/ACER/OneDrive/Máy tính/NCKH/CHARGE_BATTERY/Hardware/Library/3d_model/ECW-FG70105K.STEP"
+		(offset
+			(xyz 8.5 -6.5 1)
+		)
+		(scale
+			(xyz 0.55 0.7 1.3)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+	(model "${KICAD8_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L18.0mm_W8.0mm_P15.00mm_FKS3_FKP3.step"
+		(offset
+			(xyz 1.5 5 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

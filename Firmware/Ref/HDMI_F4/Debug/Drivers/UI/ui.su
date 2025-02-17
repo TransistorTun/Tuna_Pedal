@@ -1,0 +1,43 @@
+C:/UserData/Onedrive/Project_D/My Project/DATN/Pedal/Firmware/Ref/HDMI_F4/Drivers/lvgl/src/misc/lv_anim.h:148:20:lv_anim_set_time	16	static
+C:/UserData/Onedrive/Project_D/My Project/DATN/Pedal/Firmware/Ref/HDMI_F4/Drivers/lvgl/src/misc/lv_anim.h:158:20:lv_anim_set_delay	16	static
+C:/UserData/Onedrive/Project_D/My Project/DATN/Pedal/Firmware/Ref/HDMI_F4/Drivers/lvgl/src/misc/lv_anim.h:169:20:lv_anim_set_values	24	static
+C:/UserData/Onedrive/Project_D/My Project/DATN/Pedal/Firmware/Ref/HDMI_F4/Drivers/lvgl/src/misc/lv_anim.h:185:20:lv_anim_set_custom_exec_cb	16	static
+C:/UserData/Onedrive/Project_D/My Project/DATN/Pedal/Firmware/Ref/HDMI_F4/Drivers/lvgl/src/misc/lv_anim.h:196:20:lv_anim_set_path_cb	16	static
+C:/UserData/Onedrive/Project_D/My Project/DATN/Pedal/Firmware/Ref/HDMI_F4/Drivers/lvgl/src/misc/lv_anim.h:217:20:lv_anim_set_get_value_cb	16	static
+C:/UserData/Onedrive/Project_D/My Project/DATN/Pedal/Firmware/Ref/HDMI_F4/Drivers/lvgl/src/misc/lv_anim.h:237:20:lv_anim_set_deleted_cb	16	static
+C:/UserData/Onedrive/Project_D/My Project/DATN/Pedal/Firmware/Ref/HDMI_F4/Drivers/lvgl/src/misc/lv_anim.h:247:20:lv_anim_set_playback_time	16	static
+C:/UserData/Onedrive/Project_D/My Project/DATN/Pedal/Firmware/Ref/HDMI_F4/Drivers/lvgl/src/misc/lv_anim.h:257:20:lv_anim_set_playback_delay	16	static
+C:/UserData/Onedrive/Project_D/My Project/DATN/Pedal/Firmware/Ref/HDMI_F4/Drivers/lvgl/src/misc/lv_anim.h:267:20:lv_anim_set_repeat_count	16	static
+C:/UserData/Onedrive/Project_D/My Project/DATN/Pedal/Firmware/Ref/HDMI_F4/Drivers/lvgl/src/misc/lv_anim.h:277:20:lv_anim_set_repeat_delay	16	static
+C:/UserData/Onedrive/Project_D/My Project/DATN/Pedal/Firmware/Ref/HDMI_F4/Drivers/lvgl/src/misc/lv_anim.h:288:20:lv_anim_set_early_apply	16	static
+C:/UserData/Onedrive/Project_D/My Project/DATN/Pedal/Firmware/Ref/HDMI_F4/Drivers/lvgl/src/misc/lv_anim.h:299:20:lv_anim_set_user_data	16	static
+../Drivers/UI/ui.c:138:6:Hello_Animation	88	static
+../Drivers/UI/ui.c:161:6:NoticeShow_Animation	88	static
+../Drivers/UI/ui.c:183:6:NoticeClear_Animation	88	static
+../Drivers/UI/ui.c:205:6:blend_Animation	88	static
+../Drivers/UI/ui.c:230:6:ui_event_ImgButton5	32	static
+../Drivers/UI/ui.c:239:6:ui_event_Power_Button	24	static
+../Drivers/UI/ui.c:248:6:ui_event_Button5	32	static
+../Drivers/UI/ui.c:257:6:ui_event_Button3	32	static
+../Drivers/UI/ui.c:266:6:ui_event_Slider1	24	static
+../Drivers/UI/ui.c:275:6:ui_event_TextArea3	24	static
+../Drivers/UI/ui.c:287:6:ui_event_TextArea4	24	static
+../Drivers/UI/ui.c:299:6:ui_event_TextArea5	24	static
+../Drivers/UI/ui.c:311:6:ui_event_TextArea6	24	static
+../Drivers/UI/ui.c:323:6:ui_event_TextArea7	24	static
+../Drivers/UI/ui.c:335:6:ui_event_TextArea8	24	static
+../Drivers/UI/ui.c:347:6:ui_event_TextArea9	24	static
+../Drivers/UI/ui.c:359:6:ui_event_TextArea10	24	static
+../Drivers/UI/ui.c:371:6:ui_event_Container16_Container16_TextAreaLV1	32	static
+../Drivers/UI/ui.c:383:6:ui_event_Container17_Container17_TextAreaLOnTime1	32	static
+../Drivers/UI/ui.c:395:6:ui_event_Container18_Container18_TextAreaLOffTime1	32	static
+../Drivers/UI/ui.c:407:6:ui_event_ImgButton2	24	static
+../Drivers/UI/ui.c:416:6:ui_event_ImgButton1	24	static
+../Drivers/UI/ui.c:425:6:ui_event_ImgButton3	32	static
+../Drivers/UI/ui.c:434:6:ui_event_Dropdown1	24	static
+../Drivers/UI/ui.c:443:6:ui_event_Dropdown2	24	static
+../Drivers/UI/ui.c:452:6:ui_event_Dropdown3	24	static
+../Drivers/UI/ui.c:461:6:ui_event_TextArea1	24	static
+../Drivers/UI/ui.c:473:6:ui_event_TextArea2	24	static
+../Drivers/UI/ui.c:485:6:ui_event____initial_actions0	24	static
+../Drivers/UI/ui.c:496:6:ui_init	32	static

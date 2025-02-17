@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'HFD4_5_SR_257_'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "FUTURE_PART_NUMBER", "FUTURE_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Hongfa", "HFD4/5-SR(257)" (!) = "", "HFD45SR257", "Other", "", "", "HFD4 Subminiature Signal Relay 3 VDC 140 MW", "https://www.mouser.de/datasheet/2/418/6/ENG_DS_1_1773969_4_2002-1956266.pdf", "5.65 mm"
+END_PART
+
+END.

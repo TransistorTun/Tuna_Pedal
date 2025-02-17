@@ -1,0 +1,2 @@
+../Drivers/FSP/fsp_frame.c:30:6:FSP_Line_Process	8	static
+../Drivers/FSP/fsp_frame.c:60:6:fsp_print	120	static

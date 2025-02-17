@@ -1,0 +1,9 @@
+../Drivers/GT911/GT911.c:39:16:GT911_Init	32	static
+../Drivers/GT911/GT911.c:95:16:GT911_ReadTouch	24	static
+../Drivers/GT911/GT911.c:122:16:GT911_ReadTouchPoint	16	static
+../Drivers/GT911/GT911.c:135:13:GT911_Reset	8	static
+../Drivers/GT911/GT911.c:147:23:GT911_SetCommandRegister	16	static
+../Drivers/GT911/GT911.c:154:23:GT911_GetProductID	24	static
+../Drivers/GT911/GT911.c:168:23:GT911_SendConfig	8	static
+../Drivers/GT911/GT911.c:175:16:GT911_GetStatus	24	static
+../Drivers/GT911/GT911.c:189:16:GT911_SetStatus	16	static

@@ -1,0 +1,259 @@
+(footprint "Battery_Holder_CR1220"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "S8411-45R_1")
+	(tags "Connector")
+	(property "Reference" "J**"
+		(at -0.412 -0.096 0)
+		(layer "F.SilkS")
+		(uuid "7b8c3057-63c9-44af-b4ff-48dc17641e49")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "S8411-45R_1"
+		(at -0.412 -0.096 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "238b3286-5360-4513-9573-34c266d63802")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7228a809-a12c-445c-9faf-2de418dff0ca")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4da60a8b-adf0-4a39-a7b5-e6e15c5d24e5")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7aa70745-3bc5-48b6-b7c1-b2c68fcc3dbc")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -6.832 6.625)
+		(end -3.27 6.625)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "04f5ca6b-43e3-4745-9f22-3dcd9f7f4a12")
+	)
+	(fp_line
+		(start -6.832 8.307)
+		(end -6.832 6.625)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0db6b4f1-1f89-4036-aa5c-041633f7277d")
+	)
+	(fp_line
+		(start -6.832 8.307)
+		(end -1.553 8.307)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "660c92c1-6942-4cae-a854-59d26643a8bb")
+	)
+	(fp_line
+		(start 6.832 6.625)
+		(end 3.296 6.625)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "048a4a56-d0d3-49d5-b7f7-1998524e518a")
+	)
+	(fp_line
+		(start 6.832 8.307)
+		(end 1.49 8.307)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4f8c4c01-e9d9-43d8-98e2-d22a199169d8")
+	)
+	(fp_line
+		(start 6.832 8.307)
+		(end 6.832 6.625)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bf82ba8d-49c8-4a7b-bd75-241951a98f2e")
+	)
+	(fp_arc
+		(start -3.295295 6.625783)
+		(mid -7.399998 0.000879)
+		(end -3.29687 -6.625)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "78ae4e75-c845-4352-8df2-58392dab991c")
+	)
+	(fp_arc
+		(start 3.295287 -6.625787)
+		(mid 7.399995 -0.000884)
+		(end 3.29687 6.625)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f21ff7b0-831f-403a-8d9f-0f3479c3e9eb")
+	)
+	(fp_line
+		(start -6.832 6.625)
+		(end -6.832 8.307)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c8e5a081-a77e-4137-9e56-434bcdffb9f9")
+	)
+	(fp_line
+		(start -6.832 8.307)
+		(end 6.832 8.307)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a37670a0-befa-4339-9d29-5e6fc39c0f1f")
+	)
+	(fp_line
+		(start -3.29687 6.625)
+		(end -6.832 6.625)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "90316bea-f1c3-43fb-b36f-7112f27365cb")
+	)
+	(fp_line
+		(start 6.832 6.625)
+		(end 3.27 6.625)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "fb95c765-926e-4db4-a939-2aaf8ba0458d")
+	)
+	(fp_line
+		(start 6.832 8.307)
+		(end 6.832 6.625)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c73afcbf-7432-4218-b32d-06d65bfba95a")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0 7.4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "74c476e1-3f66-4491-a647-13396299591b")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -0.412 -0.096 0)
+		(layer "F.Fab")
+		(uuid "d007bb09-e3da-4a60-be11-27de1e2c508d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at 0 -3.725)
+		(size 1.05 1.05)
+		(drill 1.05)
+		(layers "*.Cu" "*.Mask")
+		(uuid "ab4cf83f-5f20-4ea1-9642-eeb2545c873e")
+	)
+	(pad "" np_thru_hole circle
+		(at 0 3.725)
+		(size 1.3 1.3)
+		(drill 1.3)
+		(layers "*.Cu" "*.Mask")
+		(uuid "294c4438-f09f-4556-abbc-6ad5fe91c2f4")
+	)
+	(pad "1" smd rect
+		(at 0 8.2)
+		(size 2.3 4.5)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "8223658a-4e4c-4f7d-b83a-a69c502be845")
+	)
+	(pad "2" smd rect
+		(at 0 -8.2)
+		(size 2.3 4.5)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "47fe58eb-0005-414d-b0ec-5a46d9960e31")
+	)
+	(model "D:/Github/MEASURE-POWER-AC/Hardware/Library/3D models/Battery_Holder_CR1220.stp"
+		(offset
+			(xyz 0 0.6999999776 0.2300000007)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)

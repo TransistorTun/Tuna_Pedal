@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "HFD4_5-SR_257_"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-08-26-09:10:30)
+    (mountForm default
+        (footprintRef "HFD45SR257")
+        (spec "System")
+    )
+)

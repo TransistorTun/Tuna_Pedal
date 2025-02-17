@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "HFD45SR257"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "HFD45SR257")
+        (spec "default")
+    )
+)

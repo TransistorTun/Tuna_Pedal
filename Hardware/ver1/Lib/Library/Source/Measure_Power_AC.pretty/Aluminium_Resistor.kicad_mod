@@ -1,0 +1,189 @@
+(footprint "Aluminium_Resistor"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "9812a8e9-8a8a-4f0d-b95b-63fdec24ba0a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Aluminium_Resistor"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "d1504030-df24-4acd-9df4-a9970d0457c1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bb538e95-e214-4a0f-b2e2-4f17caa9ac0d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5f973fd1-b75a-4f38-a118-025dd0204587")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b87733be-f240-49d8-bd09-9f18eb44563b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -49 -2.5)
+		(end -30 -2.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "726e62ed-9bd1-49b9-a693-aeb77b3b498d")
+	)
+	(fp_line
+		(start -48.9 2.5)
+		(end -30 2.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "7262b84a-9f3a-4ac7-b2fb-a0eeb365e2cb")
+	)
+	(fp_line
+		(start -30 -10.5)
+		(end -30 10.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "b799f0fc-0656-4d7c-abe9-a2cb9649590b")
+	)
+	(fp_line
+		(start 30 -10.500022)
+		(end -30 -10.500022)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "5adbe067-8093-4f7b-8f16-554523097560")
+	)
+	(fp_line
+		(start 30 -10.5)
+		(end 30 10.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "d533c712-06b5-495d-97f3-a3667f597390")
+	)
+	(fp_line
+		(start 30 10.5)
+		(end -30 10.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "75ec4cd9-3afa-44ef-b301-680171cde2db")
+	)
+	(fp_line
+		(start 30.05 -2.5)
+		(end 49.05 -2.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "93fe7125-2cec-49d2-a7fe-6649b552f23a")
+	)
+	(fp_line
+		(start 30.15 2.5)
+		(end 49.05 2.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "4aa60aa9-7244-46f9-bc33-aaad2df26d62")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "39a57bf9-022d-4f5d-bbf1-ecd9df445b25")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at -49 0)
+		(size 5 5)
+		(drill 2.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8ef84b17-fe2e-411f-b932-66e075f80ffe")
+	)
+	(pad "2" thru_hole circle
+		(at 49 0)
+		(size 5 5)
+		(drill 2.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d17f1f21-806b-4410-88c4-1e93a81af4e2")
+	)
+	(model "D:/Github/MEASURE-POWER-AC/Hardware/Library/3D models/Resistor 100W.stp"
+		(offset
+			(xyz 29.5 3 8)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 90 180 -90)
+		)
+	)
+)

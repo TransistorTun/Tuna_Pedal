@@ -1,0 +1,12 @@
+../Drivers/lvgl/src/extra/widgets/keyboard/lv_keyboard.c:138:12:lv_keyboard_create	1
+../Drivers/lvgl/src/extra/widgets/keyboard/lv_keyboard.c:155:6:lv_keyboard_set_textarea	3
+../Drivers/lvgl/src/extra/widgets/keyboard/lv_keyboard.c:182:6:lv_keyboard_set_mode	2
+../Drivers/lvgl/src/extra/widgets/keyboard/lv_keyboard.c:197:6:lv_keyboard_set_popovers	2
+../Drivers/lvgl/src/extra/widgets/keyboard/lv_keyboard.c:216:6:lv_keyboard_set_map	1
+../Drivers/lvgl/src/extra/widgets/keyboard/lv_keyboard.c:233:12:lv_keyboard_get_textarea	1
+../Drivers/lvgl/src/extra/widgets/keyboard/lv_keyboard.c:245:20:lv_keyboard_get_mode	1
+../Drivers/lvgl/src/extra/widgets/keyboard/lv_keyboard.c:257:6:lv_btnmatrix_get_popovers	1
+../Drivers/lvgl/src/extra/widgets/keyboard/lv_keyboard.c:274:6:lv_keyboard_def_event_cb	23
+../Drivers/lvgl/src/extra/widgets/keyboard/lv_keyboard.c:374:13:lv_keyboard_constructor	1
+../Drivers/lvgl/src/extra/widgets/keyboard/lv_keyboard.c:395:13:lv_keyboard_update_map	1
+../Drivers/lvgl/src/extra/widgets/keyboard/lv_keyboard.c:406:13:lv_keyboard_update_ctrl_map	3

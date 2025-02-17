@@ -1,0 +1,5 @@
+../Drivers/LVGL_PORTING/LCD_Controller.c:41:6:lv_port_disp_init	1
+../Drivers/LVGL_PORTING/LCD_Controller.c:93:13:disp_init	1
+../Drivers/LVGL_PORTING/LCD_Controller.c:105:6:disp_enable_update	1
+../Drivers/LVGL_PORTING/LCD_Controller.c:112:6:disp_disable_update	1
+../Drivers/LVGL_PORTING/LCD_Controller.c:120:13:disp_flush	1

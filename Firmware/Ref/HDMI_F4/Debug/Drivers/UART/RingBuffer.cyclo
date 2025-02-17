@@ -1,0 +1,6 @@
+../Drivers/UART/RingBuffer.c:11:6:rbuffer_init	1
+../Drivers/UART/RingBuffer.c:19:9:rbuffer_count	1
+../Drivers/UART/RingBuffer.c:23:6:rbuffer_full	1
+../Drivers/UART/RingBuffer.c:27:6:rbuffer_empty	1
+../Drivers/UART/RingBuffer.c:31:6:rbuffer_insert	1
+../Drivers/UART/RingBuffer.c:39:6:rbuffer_remove	1

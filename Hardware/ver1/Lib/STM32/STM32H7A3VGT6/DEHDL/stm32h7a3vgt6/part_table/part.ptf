@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'STM32H7A3VGT6'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "STM32H7A3VGT6" (!) = "", "QFP50P1600X1600X160-100N", "Quad Flat Packages", "511-STM32H7A3VGT6", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STM32H7A3VGT6?qs=sPbYRqrBIVkRnX%252BMGuTgYg%3D%3D", "ARM Microcontrollers - MCU 16/32-BITS MICROS", "", "1.6 mm"
+END_PART
+
+END.

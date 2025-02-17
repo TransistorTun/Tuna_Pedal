@@ -1,0 +1,9 @@
+../Drivers/LVGL_PORTING/TouchController.c:51:6:lv_port_indev_init	8	static
+../Drivers/LVGL_PORTING/TouchController.c:109:13:touchpad_init	24	static
+../Drivers/LVGL_PORTING/TouchController.c:118:13:touchpad_read	16	static
+../Drivers/LVGL_PORTING/TouchController.c:136:13:touchpad_is_pressed	16	static
+../Drivers/LVGL_PORTING/TouchController.c:149:13:touchpad_get_xy	16	static
+../Drivers/LVGL_PORTING/TouchController.c:159:13:button_init	4	static
+../Drivers/LVGL_PORTING/TouchController.c:164:13:button_read	24	static
+../Drivers/LVGL_PORTING/TouchController.c:183:15:button_get_pressed_id	16	static
+../Drivers/LVGL_PORTING/TouchController.c:199:13:button_is_pressed	16	static
